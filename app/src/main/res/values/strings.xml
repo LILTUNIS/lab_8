@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_8</string>
+    <string name="string_open">Open</string>
+    <string name="string_close">Close</string>
+    <string name="menu_item_1">Choice 1</string>
+    <string name="menu_item_2">Choice 2</string>
+    <string name="menu_item_3">Choice 3</string>
+</resources>
