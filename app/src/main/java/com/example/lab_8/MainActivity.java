@@ -41,14 +41,14 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 drawerLayout.closeDrawer(GravityCompat.START);
                 switch (item.getItemId()){
-                    case R.id.id1:
+                    case R.id.id3:
                         // Toast.makeText(MainActivity.this, "Home Clicked", Toast.LENGTH_SHORT).show();
                         break;
-                    case R.id.id2:
+                    case R.id.id4:
                         Intent i = new Intent(MainActivity.this, DadJoke.class);
                         startActivity(i);
                         break;
-                    case R.id.id3:
+                    case R.id.id5:
                         finishAffinity();
                         break;
 

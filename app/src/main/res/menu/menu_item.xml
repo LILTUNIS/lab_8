@@ -13,11 +13,6 @@
         android:icon="@drawable/icon2"
         app:showAsAction="always"
         android:orderInCategory="2"/>
-    <item
-    android:id="@+id/id3"
-    android:title="@string/menu_item_3"
-    android:icon="@drawable/icon3"
-        app:showAsAction="never"
-        android:orderInCategory="3"/>
+   
 
 </menu>

@@ -4,5 +4,9 @@
     <string name="string_close">Close</string>
     <string name="menu_item_1">Choice 1</string>
     <string name="menu_item_2">Choice 2</string>
-    <string name="menu_item_3">Choice 3</string>
+    <string name="home">Home</string>
+    <string name="dad_joke">Dad Joke</string>
+    <string name="Exit">Exit</string>
+
+
 </resources>
